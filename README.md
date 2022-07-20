@@ -1,8 +1,8 @@
 # README
 
-1. Create a new rails application called "SimpleQuotes" and initialize a blank git repository inside the app:
-rails new SimpleQuotes -d mysql
-cd SimpleQuotes
-git init .
+How to run the application:
 
+1. To start the development server, in terminal run: rails server
+2. Open up your browser and go to localhost:3000 (Links to an external site.) to view the application.
+3. To access the database type: rails db
 
