@@ -8,3 +8,4 @@ How to run the application:
 
 Connecting to MySQL Database:
 1. Follow the database.yml file.
+2. And make sure your Gem file has mysql
