@@ -7,4 +7,4 @@ How to run the application:
 3. To access the database type: rails db
 
 Connecting to MySQL Database:
-1. Follow the db.yml file.
+1. Follow the database.yml file.
