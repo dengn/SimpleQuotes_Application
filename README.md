@@ -21,7 +21,7 @@ Once it is installed, either restart your terminal or use the command source ...
 5. Test your installation: We will build a simple test app using the command line. Open up terminal and switch to the Documents directory by typing cd Documents or whatever directory you would like to create a test app. After that, create the rails app with the following commands.
 
 rails new testapp
-# (you'll see a bunch of output)
+(you'll see a bunch of output)
 cd testapp
 rails server
 
