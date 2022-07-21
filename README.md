@@ -1,6 +1,6 @@
 # README
 
-Installing Ruby on Rails (for Mac):
+# Installing Ruby on Rails (for Mac):
 
 1. Install Homebrew: Homebrew (Links to an external site.) is a package manager for the Mac that makes installing new software very easy. You can install this tool with this terminal command:
 
@@ -27,13 +27,13 @@ rails server <br />
 
 You can test that this works by going to localhost:3000 in your internet browser and seeing a basic rails splash page.
 
-How to run the application:
+# How to run the application:
 
 1. To start the development server, in terminal run: rails server
 2. Open up your browser and go to localhost:3000 to view the application.
 3. To access the database type: rails db
 
-Connecting to MySQL Database:
+# Connecting to MySQL Database:
 1. Follow the database.yml file.
 2. And make sure your Gem file has mysql
 
