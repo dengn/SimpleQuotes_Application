@@ -1,4 +1,5 @@
 # README
+![Screenshot](SimpleQuotes.png)
 
 # Installing Ruby on Rails (for Mac):
 
