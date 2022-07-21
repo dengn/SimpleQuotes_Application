@@ -10,7 +10,7 @@ Once it is installed, run "brew doctor" to see if there are any issues that need
 
 2. Install Git. You may already have Git on your machine; you can easily check with the command git --versionand see if this gives you a response. If not, there is an official page for installing git at https://git-scm.com/book/en/v2/Getting-Started-Installing-Git (Links to an external site.). Go to the page and follow the instructions for Mac. Verify this was installed by running git from the terminal.
 
-3. Install Ruby Version Manager: RVM (Links to an external site.) is a nice tool to switch between multiple versions of Ruby. Install it with the following command:
+3. Install Ruby Version Manager: RVM(https://rvm.io/) is a nice tool to switch between multiple versions of Ruby. Install it with the following command:
 
 \curl -sSL https://get.rvm.io | bash -s stable
 
